@@ -50,7 +50,7 @@ h1{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 7rem 17rem;
+    margin: 7rem 10rem;
 }
 
 #sobre #textosobre{
@@ -99,4 +99,5 @@ h1{
 
 #contato button:hover{
     transform: scale(1.1);
+
 }
