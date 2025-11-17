@@ -1,4 +1,5 @@
 Link do site: https://lp-arqlab.netlify.app/
+
 Link da planilha de e-mails: https://docs.google.com/spreadsheets/d/1pZEsujzo-HukPzOo9mPt8QSbB11TyQpm2d97ESWdeMA/edit?usp=sharing
 
 🏛️ Landing Page – ArqLab
